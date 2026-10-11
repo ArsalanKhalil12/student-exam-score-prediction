@@ -1,0 +1,11 @@
+Metric,Value
+Model,Multi-Layer Neural Network (MLNN / MLP)
+Architecture,"Input(3) -> Hidden(3, Sigmoid) -> Output(1, Linear)"
+Training rows,15
+Testing rows,5
+Test Mean Absolute Error (MAE),0.6813
+Test Root Mean Squared Error (RMSE),0.7341
+Test R-squared (R²),0.9971
+Overall MAE,0.4908
+Overall RMSE,0.5975
+Overall R²,0.9982
